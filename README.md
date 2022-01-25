@@ -9,11 +9,13 @@
 
 <br>
 <br>
-
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dkssud8150&repo=dkssud8150.github.io">
 
 <br>
 <br>
+-->
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/github-profile-trophy)
 
