@@ -37,7 +37,7 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 
 ```
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
