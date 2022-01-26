@@ -44,9 +44,9 @@
 🌙 Night      32 commits  ████▍░░░░░░░░░░░░░░░░  21.3%
 
 ```
-
+<!--
 <a href="https://wakatime.com/@b912dd74-ff1f-4c31-a142-b7d00397b756"><img src="https://wakatime.com/badge/user/b912dd74-ff1f-4c31-a142-b7d00397b756.svg" alt="Total time coded since Jan 26 2022" /></a>
-
+-->
 ---
 
 <br />
