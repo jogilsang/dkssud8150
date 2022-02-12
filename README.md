@@ -83,6 +83,6 @@ Bash               37 mins  ███▒░░░░░░░░░░░░░�
 
 **Framework**
 
-<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png"> OpenCV</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png"> Flask</code>
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png"> OpenCV</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_src_logo_icon_168043.png"> Flask</code>
 
 <!-- icons site: https://icon-icons.com/search/icons/ -->
