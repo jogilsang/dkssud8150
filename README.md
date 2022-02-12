@@ -37,7 +37,11 @@
 <script src="https://gist.github.com/dkssud8150/af8179798b7655559b25868579e92478.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 -->
-
+<!--
+https://malangdidoo.tistory.com/34
+https://github.com/mazassumnida/mazassumnida#ruby-
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+-->
 <br />
 <br />
 
