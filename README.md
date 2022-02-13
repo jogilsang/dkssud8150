@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=hi,+i'm+here&font=Redressed&size=40&center=true)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2Fhit-counter&count_bg=%236796E5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 
 
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070" width="49.2%" />
   <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" />
 </a>
 
