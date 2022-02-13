@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-# Hello World🐯🤖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+<!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -13,9 +14,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight)](https://git.io/streak-stats)
+-->
+
+<br />
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<br />
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
+-->
+
+---
+
 <br />
 <br />
 
+
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dkssud8150&repo=dkssud8150.github.io">
 프로필 꾸미기 참고 사이트: https://blog.naver.com/jogilsang/222350143664
@@ -25,6 +44,8 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
+
+<br />
 
 ---
 
@@ -42,6 +63,8 @@ https://malangdidoo.tistory.com/34
 https://github.com/mazassumnida/mazassumnida#ruby-
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
+
+
 <br />
 <br />
 
@@ -59,6 +82,9 @@ https://github.com/mazassumnida/mazassumnida#ruby-
 
 **Weekly Development**
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
 ```markdown
 
 Python      26 hrs 15 mins  ██████████████████▒░  77.1%
@@ -66,7 +92,7 @@ HTML         3 hrs 48 mins  █████░░░░░░░░░░░░�
 Markdown     3 hrs 15 mins  ████▓░░░░░░░░░░░░░░░   9.6%
 Bash               37 mins  ███▒░░░░░░░░░░░░░░░░   1.9%
 
-```
+``` -->
 
 
 
