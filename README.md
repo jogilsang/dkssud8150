@@ -21,7 +21,7 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <br />
 <!--
@@ -117,6 +117,6 @@ Bash               37 mins  ███▒░░░░░░░░░░░░░�
 
 <!-- icons site: https://icon-icons.com/search/icons/ -->
 
-If you wonder how i study alone?? -> 
+If you wonder how i study alone?? -> <a href="https://dkssud8150.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-Blog-2A5B93?style=plastic&logo=GitHub Actions&logoColor=white"/></a>
 
 
