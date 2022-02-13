@@ -5,9 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=hi,+i'm+here&font=Redressed&size=40&center=true&vCenter=true&width=404)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
 
-
+<br />
+<br />
 
 
 <a href="s">
@@ -28,8 +29,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
 -->
 
----
-
 <br />
 <br />
 
@@ -46,12 +45,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
 
-<br />
-
 ---
 
 <br />
 <br />
+  
 <!--
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> -->
 
@@ -66,8 +64,6 @@ https://github.com/mazassumnida/mazassumnida#ruby-
 -->
 
 
-<br />
-<br />
 
 **I'm a night 🦉**
 
@@ -80,7 +76,7 @@ https://github.com/mazassumnida/mazassumnida#ruby-
 
 ```
 
----
+<br />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
 
