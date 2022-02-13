@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=hi,+i'm+here&font=Redressed&size=40&center=true)](https://git.io/typing-svg)
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
+
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" />
+  <img src="https://github.com/dkssud8150/github-stats/blob/master/generated/languages.svg" />
 </a>
 
 <!-- 
@@ -20,7 +19,7 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <br />
 <!--
@@ -78,11 +77,12 @@ https://github.com/mazassumnida/mazassumnida#ruby-
 🌙 Night      84 commits  ██████▎░░░░░░░░░░░░░░  29.8%
 
 ```
+
 ---
 
 **Weekly Development**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dkssud8150&)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 ```markdown
