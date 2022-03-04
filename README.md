@@ -102,6 +102,10 @@ Bash               37 mins  ███▒░░░░░░░░░░░░░�
 <br />
 <br />
 
+ <details open>
+   
+  <summary>🚀 Stack</summary>
+ 
 **Languages**
 
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"> python</code> 
@@ -111,7 +115,8 @@ Bash               37 mins  ███▒░░░░░░░░░░░░░�
 **Framework**
 
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png"> OpenCV</code> <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_src_logo_icon_168043.png"> Flask</code>
-
+   
+</details> 
 <!-- icons site: https://icon-icons.com/search/icons/ -->
 
 If you wonder how i study alone?? -> <a href="https://dkssud8150.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-2A5B93?style=plastic&logo=GitHub Actions&logoColor=white"/></a>
